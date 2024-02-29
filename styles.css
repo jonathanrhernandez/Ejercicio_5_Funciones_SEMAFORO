@@ -1,0 +1,22 @@
+#rojo,#amarillo,#verde{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.padre{
+    border: 1px solid black;
+    width: 105px;
+    height: 305px;
+    margin-top:20px;    
+}
+#rojo{
+    background-color: rgba(255, 0, 0, 1);
+}
+#amarillo{
+    background-color: rgba(255, 255, 0, 0.3);
+}
+#verde{
+    background-color: rgba(0, 128, 0, 0.3);
+}
+
